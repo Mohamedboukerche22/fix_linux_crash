@@ -9,3 +9,4 @@ git clone https://github.com/Mohamedboukerche22/fix_linux_crash.git
 cd fix_linux_crash
 chmod +x fix.sh && sudo ./fix.sh
 ```
+and btw this is for debain and ubuntu 
